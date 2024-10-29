@@ -6,7 +6,7 @@ plt.title("Linear graph",fontsize=25)
 plt.ylabel('Y-Axis')
 plt.xlabel('X-Axis')
 plt.show()
-
+print('Hello')
 
 
 GRAPH
